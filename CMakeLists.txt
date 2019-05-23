@@ -13,4 +13,3 @@ set(CMAKE_CXX_STANDARD 14)
 
 ADD_SUBDIRECTORY(lib)
 ADD_SUBDIRECTORY(src)
-add_subdirectory(playGroundDir)
